@@ -22,7 +22,7 @@ Cобраны персональные данные о некоторых кли
 - sklearn.linear_model.LogisticRegression
 - sklearn.metrics.roc_auc_score
 - sklearn.metrics.confusion_matrix
-- - sklearn.dummy.DummyClassifier
+- sklearn.dummy.DummyClassifier
 - sklearn.utils.shuffle
 - LGBMClassifier
 - CatBoostClassifier
